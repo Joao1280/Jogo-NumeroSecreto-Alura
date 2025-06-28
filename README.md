@@ -31,4 +31,4 @@ Um jogo interativo desenvolvido com HTML, CSS e JavaScript, no qual o jogador de
 
 ## Como jogar
 
-- https://jogonumsecreto-beige.vercel.app/
+- https://jogo-numero-secreto-alura-five-xi.vercel.app/
